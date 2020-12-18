@@ -12,5 +12,9 @@ h2{
 }
 body {
 	background: black;
-	color: 
+	color: white;
+}
+footer {
+	background: white;
+	color: black;
 }
